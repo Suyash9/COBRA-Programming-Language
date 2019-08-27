@@ -1,1 +1,0 @@
-let (x:StreamType) = (access_stm 0 inp) in ((accumulate x : coeffs <- ($[0] = 1, $[n] = 1 + $[n-1])) :: empty)
