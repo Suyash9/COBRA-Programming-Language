@@ -1,1 +1,0 @@
-let (x:StreamType) = access_stm 0 inp in ((0 +-> x) :: empty)
