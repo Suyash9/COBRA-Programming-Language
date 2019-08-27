@@ -1,0 +1,1 @@
+let (x:StreamType) = access_stm 0 inp in (x S+ ((0 +-> x)))

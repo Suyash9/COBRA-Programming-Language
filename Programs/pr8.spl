@@ -1,0 +1,1 @@
+let (x:StreamType) = access_stm 0 inp in ((double_func : 1 * x + 1 * (0 +-> x)) :: empty)
